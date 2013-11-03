@@ -1,1 +1,1 @@
-备战NOIP2013刷题记录
+Preparing for the NOIP 2013 Record.
